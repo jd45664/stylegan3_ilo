@@ -1,0 +1,9 @@
+name: stats
+dependencies:
+  - numpy
+  - pytorch
+  - torchvision
+  - scikit-image
+  - tqdm
+  - opencv
+
